@@ -1,8 +1,8 @@
 td, th{
     border: solid black 1px;
     text-align: center;
-    background-color: rgb(236, 130, 236);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ec82ec;
+    font-family: 'Franklin Gothic Minimun', 'Arial Narrow', Arial, sans-serif;
 }
 table{
     border-collapse: collapse;
@@ -21,9 +21,4 @@ h1{
     color: black;
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-button{
-    width: 50%;
-    border-radius: 50%;
-    height: 10%;
 }
