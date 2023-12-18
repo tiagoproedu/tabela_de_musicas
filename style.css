@@ -1,7 +1,7 @@
 td, th{
     border: solid black 1px;
     text-align: center;
-    background-color: #c3a1ff;
+    background-color: rgb(236, 130, 236);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 table{
@@ -13,12 +13,12 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(236, 130, 236);
+    background-color: #c3a1ff;
 }
 
 h1{
     display: flex;
-    color: white;
+    color: black;
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
