@@ -1,24 +1,27 @@
-td, th{
-    border: solid black 1px;
-    text-align: center;
-    background-color: #ec82ec;
-    font-family: 'Franklin Gothic Minimun', 'Arial Narrow', Arial, sans-serif;
+.cards{
+    display: flex;
 }
-table{
-    border-collapse: collapse;
-    width: 50%;
+.card{
+    background-color: purple;
+    margin: 3%;
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
 }
 
 body{
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color: #c3a1ff;
+    background-color: #252525;
 }
 
 h1{
     display: flex;
-    color: black;
+    color: white;
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
